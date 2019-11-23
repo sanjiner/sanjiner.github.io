@@ -2,27 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7aceb2ad-6b73-4d55-a55a-35f3bd880bda" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/large/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/large/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/large/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/large/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/large/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/large/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/large/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/large/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/large/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/large/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/thumbs/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/10.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/4.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/6.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/7.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/8.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/thumbs/9.jpeg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -40,8 +27,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+            <state relative-caret-position="429">
+              <caret line="46" column="43" lean-forward="true" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
               </folding>
@@ -131,12 +118,12 @@
       <option name="presentableId" value="Default" />
       <updated>1574413391870</updated>
       <workItem from="1574413392983" duration="1241000" />
-      <workItem from="1574471553539" duration="455000" />
+      <workItem from="1574471553539" duration="629000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1696000" />
+    <option name="totallyTimeSpent" value="1870000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -174,8 +161,8 @@
     <entry file="file://$PROJECT_DIR$/2017/07/19/hello-world/index.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+        <state relative-caret-position="429">
+          <caret line="46" column="43" lean-forward="true" selection-start-line="46" selection-start-column="43" selection-end-line="46" selection-end-column="43" />
           <folding>
             <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
           </folding>
